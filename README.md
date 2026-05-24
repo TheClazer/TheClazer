@@ -68,52 +68,43 @@
 <br><br>
 <sub><b>Stack:</b> Kotlin · Android · TFLite · QNN · TEE Keystore · ECDSA-P256 · JCS</sub>
 
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/TheClazer/CoreTex">
-<img src="https://img.shields.io/badge/CORETEX-Python%20%C2%B7%20AI-d4bbff?style=for-the-badge&labelColor=1a1b27" /><br>
-<img src="https://img.shields.io/github/stars/TheClazer/CoreTex?style=flat-square&label=stars&labelColor=1a1b27&color=565f89" />
-<img src="https://img.shields.io/github/last-commit/TheClazer/CoreTex?style=flat-square&label=updated&labelColor=1a1b27&color=565f89" />
-</a>
-<br><br>
-<sub><b>Doc → LaTeX → publishable paper.</b> A formatting pipeline that turns plain docs into proper, paper-ready LaTeX. Built because every EL and lab at RVCE becomes yet another paper to format.</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/TheClazer/MiniGolf">
-<img src="https://img.shields.io/badge/MINIGOLF-JavaScript%20%C2%B7%20Game-d4bbff?style=for-the-badge&labelColor=1a1b27" /><br>
-<img src="https://img.shields.io/github/stars/TheClazer/MiniGolf?style=flat-square&label=stars&labelColor=1a1b27&color=565f89" />
-<img src="https://img.shields.io/github/last-commit/TheClazer/MiniGolf?style=flat-square&label=updated&labelColor=1a1b27&color=565f89" />
-</a>
-<br><br>
-<sub><b>Pure fun.</b> A browser mini-golf game with proper physics. The kind of repo that exists because Saturday.</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/TheClazer/Hand-tracked-Snake-game">
-<img src="https://img.shields.io/badge/SNAKEHANDS-Python%20%C2%B7%20CV%20%C2%B7%20Game-d4bbff?style=for-the-badge&labelColor=1a1b27" /><br>
-<img src="https://img.shields.io/github/stars/TheClazer/Hand-tracked-Snake-game?style=flat-square&label=stars&labelColor=1a1b27&color=565f89" />
-<img src="https://img.shields.io/github/last-commit/TheClazer/Hand-tracked-Snake-game?style=flat-square&label=updated&labelColor=1a1b27&color=565f89" />
-</a>
-<br><br>
-<sub><b>Side quest.</b> Classic Snake, steered with your actual hand. CV + Pygame + a webcam.</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/TheClazer/Duo-leveling">
-<img src="https://img.shields.io/badge/DUO--LEVELING-TypeScript%20%C2%B7%20Game--ish-d4bbff?style=for-the-badge&labelColor=1a1b27" /><br>
-<img src="https://img.shields.io/github/stars/TheClazer/Duo-leveling?style=flat-square&label=stars&labelColor=1a1b27&color=565f89" />
-<img src="https://img.shields.io/github/last-commit/TheClazer/Duo-leveling?style=flat-square&label=updated&labelColor=1a1b27&color=565f89" />
-</a>
-<br><br>
-<sub><b>Productivity, but RPG.</b> A to-do app that levels you up. Because spreadsheets are boring.</sub>
-</td>
-</tr>
-</table>
-
 </div>
+
+<br>
+
+### [CoreTex](https://github.com/TheClazer/CoreTex)
+*Doc → LaTeX → publishable paper.*
+
+A formatting pipeline that turns plain docs into proper, paper-ready LaTeX. Built because every EL and lab at RVCE becomes yet another paper to format.
+
+`Python`  ·  `AI`  ·  ![](https://img.shields.io/github/stars/TheClazer/CoreTex?style=flat&label=&color=c084fc&logo=star&logoColor=ffd700)  ·  [view repo →](https://github.com/TheClazer/CoreTex)
+
+---
+
+### [MiniGolf](https://github.com/TheClazer/MiniGolf)
+*Pure fun.*
+
+A browser mini-golf game with proper physics. The kind of repo that exists because Saturday.
+
+`JavaScript`  ·  `Game`  ·  ![](https://img.shields.io/github/stars/TheClazer/MiniGolf?style=flat&label=&color=c084fc&logo=star&logoColor=ffd700)  ·  [view repo →](https://github.com/TheClazer/MiniGolf)
+
+---
+
+### [SnakeHands](https://github.com/TheClazer/Hand-tracked-Snake-game)
+*Side quest.*
+
+Classic Snake, steered with your actual hand. CV + Pygame + a webcam.
+
+`Python`  ·  `CV`  ·  `Game`  ·  ![](https://img.shields.io/github/stars/TheClazer/Hand-tracked-Snake-game?style=flat&label=&color=c084fc&logo=star&logoColor=ffd700)  ·  [view repo →](https://github.com/TheClazer/Hand-tracked-Snake-game)
+
+---
+
+### [Duo-leveling](https://github.com/TheClazer/Duo-leveling)
+*Productivity, but RPG.*
+
+A to-do app that levels you up. Because spreadsheets are boring.
+
+`TypeScript`  ·  `Game-ish`  ·  ![](https://img.shields.io/github/stars/TheClazer/Duo-leveling?style=flat&label=&color=c084fc&logo=star&logoColor=ffd700)  ·  [view repo →](https://github.com/TheClazer/Duo-leveling)
 
 ---
 
