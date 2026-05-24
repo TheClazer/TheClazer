@@ -41,10 +41,10 @@
 
 <table>
 <tr>
-<td align="center"><b>Current Arc</b><br><sub>Hack4SoC 3.0<br>on-device ML on Snapdragon</sub></td>
-<td align="center"><b>Quests Done</b><br><sub>21 public repos<br>across 8 languages</sub></td>
-<td align="center"><b>Super Effective</b><br><sub>blank canvases,<br>half-baked ideas</sub></td>
-<td align="center"><b>Weak To</b><br><sub>unrealistic deadlines,<br>bad coffee</sub></td>
+<td align="center"><b>Current Arc</b><br><br>Hack4SoC 3.0<br>on-device ML on Snapdragon</td>
+<td align="center"><b>Quests Done</b><br><br>21 public repos<br>across 8 languages</td>
+<td align="center"><b>Super Effective</b><br><br>blank canvases,<br>half-baked ideas</td>
+<td align="center"><b>Weak To</b><br><br>unrealistic deadlines,<br>bad coffee</td>
 </tr>
 </table>
 
