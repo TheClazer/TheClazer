@@ -6,6 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheClazer&label=PROFILE+VIEWS&color=bb9af7&style=for-the-badge)
 [![Follow](https://img.shields.io/badge/FOLLOW-on%20GitHub-414868?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/TheClazer)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-in%2Frayynshk72-414868?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/rayynshk72)
 [![Email](https://img.shields.io/badge/EMAIL-therayyn16-414868?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:therayyn16@gmail.com)
 [![Location](https://img.shields.io/badge/BANGALORE-IN-414868?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1b27)](#)
 
@@ -261,11 +262,12 @@ I'm genuinely down to collaborate on:
 - **Hackathons** — local, online, last-minute, all of it
 - Anything that starts with *"what if we just…"*
 
-**Pitch me here:**
+**Pitch me here — DM me on LinkedIn, that's the fastest way. Email works too.**
 
-[![Email](https://img.shields.io/badge/Email%20me-therayyn16%40gmail.com-ff79c6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:therayyn16@gmail.com?subject=I%20have%20a%20cool%20idea)
-[![GitHub Issues](https://img.shields.io/badge/Open%20an%20Issue-on%20any%20repo-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/TheClazer?tab=repositories)
-[![Discussions](https://img.shields.io/badge/Or%20just%20say-hi-bb9af7?style=for-the-badge&logo=githubdiscussions&logoColor=white&labelColor=1a1b27)](https://github.com/TheClazer)
+[![LinkedIn](https://img.shields.io/badge/DM%20on%20LinkedIn-in%2Frayynshk72-bb9af7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/rayynshk72)
+[![Email](https://img.shields.io/badge/Email%20me-therayyn16%40gmail.com-414868?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:therayyn16@gmail.com?subject=I%20have%20a%20cool%20idea)
+[![GitHub Issues](https://img.shields.io/badge/Open%20an%20Issue-on%20any%20repo-414868?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/TheClazer?tab=repositories)
+[![Discussions](https://img.shields.io/badge/Or%20just%20say-hi-414868?style=for-the-badge&logo=githubdiscussions&logoColor=white&labelColor=1a1b27)](https://github.com/TheClazer)
 
 *No pitch is too small. No idea is too dumb. The worst that can happen is I say "cool, but later."*
 
