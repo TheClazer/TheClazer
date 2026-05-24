@@ -24,18 +24,15 @@
 <br><br>
 <b>Rayyan Ahmed Shaikh</b>
 <br>
-<sub>🌏 Bangalore · 🎓 RVCE</sub>
+<sub>Bangalore · RVCE</sub>
 </td>
 <td>
 
-![Status](https://img.shields.io/badge/STATUS-Open%20to%20Collab-7aa2f7?style=for-the-badge&labelColor=1a1b27)
-![CTFs](https://img.shields.io/badge/CTFs-ALWAYS%20DOWN-ff79c6?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1b27)
+![Status](https://img.shields.io/badge/STATUS-Open%20to%20Collab-bb9af7?style=for-the-badge&labelColor=1a1b27)
+![CTFs](https://img.shields.io/badge/CTFs-Always%20Down-414868?style=for-the-badge&labelColor=1a1b27)
 <br>
-![Hackathons](https://img.shields.io/badge/Hackathons-Yes%20please-bb9af7?style=for-the-badge&labelColor=1a1b27)
-![Internships](https://img.shields.io/badge/Internships-Open-9ece6a?style=for-the-badge&labelColor=1a1b27)
-<br>
-![Games](https://img.shields.io/badge/Game%20Jams-Sign%20me%20up-f7768e?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=1a1b27)
-![Coffee](https://img.shields.io/badge/Coffee-Strong%2C%20please-7dcfff?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=1a1b27)
+![Hackathons](https://img.shields.io/badge/Hackathons-Yes-414868?style=for-the-badge&labelColor=1a1b27)
+![Games](https://img.shields.io/badge/Game%20Jams-Sign%20me%20up-bb9af7?style=for-the-badge&labelColor=1a1b27)
 
 </td>
 </tr>
@@ -43,10 +40,10 @@
 
 <table>
 <tr>
-<td align="center">🎯 <b>Current Arc</b><br><sub>Hack4SoC 3.0<br>on-device ML on Snapdragon</sub></td>
-<td align="center">📦 <b>Quests Done</b><br><sub>21 public repos<br>across 8 languages</sub></td>
-<td align="center">⚡ <b>Super Effective</b><br><sub>blank canvases,<br>half-baked ideas</sub></td>
-<td align="center">💀 <b>Weak To</b><br><sub>unrealistic deadlines,<br>bad coffee</sub></td>
+<td align="center"><b>Current Arc</b><br><sub>Hack4SoC 3.0<br>on-device ML on Snapdragon</sub></td>
+<td align="center"><b>Quests Done</b><br><sub>21 public repos<br>across 8 languages</sub></td>
+<td align="center"><b>Super Effective</b><br><sub>blank canvases,<br>half-baked ideas</sub></td>
+<td align="center"><b>Weak To</b><br><sub>unrealistic deadlines,<br>bad coffee</sub></td>
 </tr>
 </table>
 
@@ -62,9 +59,9 @@
 <img src="https://img.shields.io/badge/PROJECT%20PRAMANA-On--Device%20Deepfake%20Detection%20%2B%20Cryptographic%20Provenance-bb9af7?style=for-the-badge&labelColor=1a1b27" />
 </a>
 <br>
-<img src="https://img.shields.io/badge/Hack4SoC%203.0-Build%20in%20Progress-ff79c6?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Snapdragon%20NPU-Hardware--Backed-7aa2f7?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Stealth-Public%20After%20Finals-9ece6a?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/HACK4SOC%203.0-414868?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SNAPDRAGON%20NPU-414868?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STEALTH%20MODE-414868?style=for-the-badge" />
 <br><br>
 <b>The flagship.</b> Real-time deepfake detection running entirely on-device — no cloud, no telemetry. Every capture is cryptographically signed with the phone's hardware-backed key, embedded as a provenance manifest, and verified offline. Built for the Hack4SoC 3.0 finals at IEEE RVCE × Qualcomm.
 <br><br>
@@ -76,41 +73,41 @@
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/TheClazer/CoreTex">
-<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20CoreTex-Python%20%C2%B7%20AI-7aa2f7?style=for-the-badge&labelColor=1a1b27" /><br>
-<img src="https://img.shields.io/github/stars/TheClazer/CoreTex?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
-<img src="https://img.shields.io/github/last-commit/TheClazer/CoreTex?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
-<br><br>
-<sub><b>Doc → LaTeX → publishable paper.</b> A formatting pipeline that turns plain docs into proper, paper-ready LaTeX. Built because every EL and lab at RVCE turns into yet another paper to format — now it takes minutes, not weekends.</sub>
+<img src="https://img.shields.io/badge/CORETEX-Python%20%C2%B7%20AI-bb9af7?style=for-the-badge&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/github/stars/TheClazer/CoreTex?style=flat-square&label=stars&labelColor=1a1b27&color=565f89" />
+<img src="https://img.shields.io/github/last-commit/TheClazer/CoreTex?style=flat-square&label=updated&labelColor=1a1b27&color=565f89" />
 </a>
+<br><br>
+<sub><b>Doc → LaTeX → publishable paper.</b> A formatting pipeline that turns plain docs into proper, paper-ready LaTeX. Built because every EL and lab at RVCE becomes yet another paper to format.</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/TheClazer/MiniGolf">
-<img src="https://img.shields.io/badge/%E2%9B%B3%20MiniGolf-JavaScript%20%C2%B7%20Game-9ece6a?style=for-the-badge&labelColor=1a1b27" /><br>
-<img src="https://img.shields.io/github/stars/TheClazer/MiniGolf?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
-<img src="https://img.shields.io/github/last-commit/TheClazer/MiniGolf?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
-<br><br>
-<sub>⛳ <b>Pure fun</b> — a browser mini-golf game with proper physics. The kind of repo that exists because Saturday.</sub>
+<img src="https://img.shields.io/badge/MINIGOLF-JavaScript%20%C2%B7%20Game-bb9af7?style=for-the-badge&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/github/stars/TheClazer/MiniGolf?style=flat-square&label=stars&labelColor=1a1b27&color=565f89" />
+<img src="https://img.shields.io/github/last-commit/TheClazer/MiniGolf?style=flat-square&label=updated&labelColor=1a1b27&color=565f89" />
 </a>
+<br><br>
+<sub><b>Pure fun.</b> A browser mini-golf game with proper physics. The kind of repo that exists because Saturday.</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/TheClazer/Hand-tracked-Snake-game">
-<img src="https://img.shields.io/badge/%F0%9F%90%8D%20SnakeHands-Python%20%C2%B7%20CV%20%C2%B7%20Game-ff79c6?style=for-the-badge&labelColor=1a1b27" /><br>
-<img src="https://img.shields.io/github/stars/TheClazer/Hand-tracked-Snake-game?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
-<img src="https://img.shields.io/github/last-commit/TheClazer/Hand-tracked-Snake-game?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
-<br><br>
-<sub>🕹️ <b>Side quest</b> — classic Snake, but you steer it with your actual hand. CV + Pygame + a webcam.</sub>
+<img src="https://img.shields.io/badge/SNAKEHANDS-Python%20%C2%B7%20CV%20%C2%B7%20Game-bb9af7?style=for-the-badge&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/github/stars/TheClazer/Hand-tracked-Snake-game?style=flat-square&label=stars&labelColor=1a1b27&color=565f89" />
+<img src="https://img.shields.io/github/last-commit/TheClazer/Hand-tracked-Snake-game?style=flat-square&label=updated&labelColor=1a1b27&color=565f89" />
 </a>
+<br><br>
+<sub><b>Side quest.</b> Classic Snake, steered with your actual hand. CV + Pygame + a webcam.</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/TheClazer/Duo-leveling">
-<img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Duo--leveling-TypeScript%20%C2%B7%20Game--ish-bb9af7?style=for-the-badge&labelColor=1a1b27" /><br>
-<img src="https://img.shields.io/github/stars/TheClazer/Duo-leveling?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
-<img src="https://img.shields.io/github/last-commit/TheClazer/Duo-leveling?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
-<br><br>
-<sub>📈 <b>Productivity, but RPG</b> — a to-do app that levels you up. Because spreadsheets are boring.</sub>
+<img src="https://img.shields.io/badge/DUO--LEVELING-TypeScript%20%C2%B7%20Game--ish-bb9af7?style=for-the-badge&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/github/stars/TheClazer/Duo-leveling?style=flat-square&label=stars&labelColor=1a1b27&color=565f89" />
+<img src="https://img.shields.io/github/last-commit/TheClazer/Duo-leveling?style=flat-square&label=updated&labelColor=1a1b27&color=565f89" />
 </a>
+<br><br>
+<sub><b>Productivity, but RPG.</b> A to-do app that levels you up. Because spreadsheets are boring.</sub>
 </td>
 </tr>
 </table>
@@ -131,13 +128,25 @@
 
 ---
 
-## Tech Arsenal
-
-> *Click any icon — it'll take you to the official site. Tooltips on hover.*
+## Currently in My Ears
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1&pause=99999&color=BB9AF7&center=true&vCenter=true&width=300&lines=%E2%9A%94%EF%B8%8E++Mobile+%26+ML" alt="Mobile & ML" />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=va1pscjoxd3l3vm0lexey4caf&cover_image=true&theme=default&show_offline=true&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false&bar_color=bb9af7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=va1pscjoxd3l3vm0lexey4caf&redirect=true)
+
+<sub><i>Live when I'm playing something. Shows "Was listening to…" otherwise.</i></sub>
+
+</div>
+
+---
+
+## Tech Arsenal
+
+> *Click any icon — it'll take you to the official site.*
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1&pause=99999&color=BB9AF7&center=true&vCenter=true&width=300&lines=Mobile+%26+ML" alt="Mobile & ML" />
 <br>
 <a href="https://kotlinlang.org" target="_blank" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="55" alt="Kotlin"/></a>&nbsp;
 <a href="https://developer.android.com/studio" target="_blank" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="55" alt="Android Studio"/></a>&nbsp;
@@ -147,7 +156,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1&pause=99999&color=7AA2F7&center=true&vCenter=true&width=300&lines=%F0%9F%8C%90++Web" alt="Web" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1&pause=99999&color=BB9AF7&center=true&vCenter=true&width=300&lines=Web" alt="Web" />
 <br>
 <a href="https://www.typescriptlang.org" target="_blank" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="55" alt="TypeScript"/></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="55" alt="JavaScript"/></a>&nbsp;
@@ -160,7 +169,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1&pause=99999&color=FF79C6&center=true&vCenter=true&width=300&lines=%E2%9A%99%EF%B8%8E++Systems+%26+Low-Level" alt="Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1&pause=99999&color=BB9AF7&center=true&vCenter=true&width=300&lines=Systems+%26+Low-Level" alt="Systems" />
 <br>
 <a href="https://en.cppreference.com/w/c" target="_blank" title="C"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="55" alt="C"/></a>&nbsp;
 <a href="https://isocpp.org" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="55" alt="C++"/></a>&nbsp;
@@ -170,7 +179,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1&pause=99999&color=BB9AF7&center=true&vCenter=true&width=300&lines=%F0%9F%9B%A0%EF%B8%8E++Tooling" alt="Tooling" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1&pause=99999&color=BB9AF7&center=true&vCenter=true&width=300&lines=Tooling" alt="Tooling" />
 <br>
 <a href="https://git-scm.com" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="55" alt="Git"/></a>&nbsp;
 <a href="https://github.com" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="55" alt="GitHub"/></a>&nbsp;
@@ -239,30 +248,18 @@
 
 ---
 
-## Currently in My Ears
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=va1pscjoxd3l3vm0lexey4caf&cover_image=true&theme=default&show_offline=true&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false&bar_color=bb9af7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=va1pscjoxd3l3vm0lexey4caf&redirect=true)
-
-<sub><i>Live when I'm playing something. Shows "Was listening to…" otherwise.</i></sub>
-
-</div>
-
----
-
 ## Let's Build Something
 
 > *Got an idea? A weird side project? A "this probably won't work but…"? I'd love to hear it.*
 
 I'm genuinely down to collaborate on:
 
-- 🎮 **Games** of any size — jam-scale prototypes, weekend builds, weird controllers, anything
-- 🚩 **CTFs** — ALWAYS. Any platform, any difficulty, any time zone. Drop the invite.
-- 📱 **Android / on-device ML** apps where the model runs on the phone, not a server
-- 🧠 **Productivity tools** that don't feel like work
-- 🏆 **Hackathons** — local, online, last-minute, all of it
-- 💡 Anything that starts with *"what if we just…"*
+- **Games** of any size — jam-scale prototypes, weekend builds, weird controllers, anything
+- **CTFs** — always. Any platform, any difficulty, any time zone. Drop the invite.
+- **Android / on-device ML** apps where the model runs on the phone, not a server
+- **Productivity tools** that don't feel like work
+- **Hackathons** — local, online, last-minute, all of it
+- Anything that starts with *"what if we just…"*
 
 **Pitch me here:**
 
