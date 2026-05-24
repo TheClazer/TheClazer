@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=BB9AF7&center=true&vCenter=true&width=640&lines=Student+%40+R.V.+College+of+Engineering;I+build+apps%2C+I+train+models%2C+I+make+games;Big+fan+of+%22what+if+we+just...%22+conversations;Got+an+idea%3F+Let%E2%80%99s+actually+build+it)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheClazer&label=PROFILE+VIEWS&color=bb9af7&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/TheClazer?label=FOLLOWERS&style=for-the-badge&color=7aa2f7&labelColor=1a1b27)](https://github.com/TheClazer)
-[![Email](https://img.shields.io/badge/EMAIL-therayyn16-ff79c6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:therayyn16@gmail.com)
-[![Location](https://img.shields.io/badge/BANGALORE-IN-bb9af7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1b27)](#)
+[![Follow](https://img.shields.io/badge/FOLLOW-on%20GitHub-414868?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/TheClazer)
+[![Email](https://img.shields.io/badge/EMAIL-therayyn16-414868?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:therayyn16@gmail.com)
+[![Location](https://img.shields.io/badge/BANGALORE-IN-414868?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1b27)](#)
 
 </div>
 
