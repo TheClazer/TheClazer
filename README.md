@@ -15,37 +15,73 @@
 
 ## Trainer Card
 
-> *Choose your starter.*
+<div align="center">
 
-```yaml
-trainer:   Rayyan Ahmed Shaikh
-location:  Bangalore, India
-team:      R.V. College of Engineering
-status:    open to collabs, internships & weird ideas
+<table>
+<tr>
+<td align="center" width="180">
+<img src="https://github.com/TheClazer.png" width="130" style="border-radius: 50%;" alt="avatar" />
+<br><br>
+<b>Rayyan Ahmed Shaikh</b>
+<br>
+<sub>🌏 Bangalore · 🎓 RVCE</sub>
+</td>
+<td>
 
-party:
-  - { id: 001, name: Pramana,         type: [Android, On-device ML],   note: current starter    }
-  - { id: 002, name: CoreTex,         type: [Python, AI],              note: ★ 7  most-starred  }
-  - { id: 003, name: SnakeHands,      type: [Python, CV, Game],        note: hand-tracked snake }
-  - { id: 004, name: MiniGolf,        type: [JavaScript, Game],        note: physics, vibes     }
-  - { id: 005, name: Duo-leveling,    type: [TypeScript, Game-ish],    note: leveling-up app    }
-  - { id: 006, name: Studyo,          type: [Kotlin, EdTech],          note: still training     }
+![Status](https://img.shields.io/badge/STATUS-Open%20to%20Collab-7aa2f7?style=for-the-badge&labelColor=1a1b27)
+![CTFs](https://img.shields.io/badge/CTFs-ALWAYS%20DOWN-ff79c6?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1b27)
+<br>
+![Hackathons](https://img.shields.io/badge/Hackathons-Yes%20please-bb9af7?style=for-the-badge&labelColor=1a1b27)
+![Internships](https://img.shields.io/badge/Internships-Open-9ece6a?style=for-the-badge&labelColor=1a1b27)
+<br>
+![Games](https://img.shields.io/badge/Game%20Jams-Sign%20me%20up-f7768e?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=1a1b27)
+![Coffee](https://img.shields.io/badge/Coffee-Strong%2C%20please-7dcfff?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=1a1b27)
 
-current_arc: "Hack4SoC 3.0 — building something fun on Snapdragon"
-quests_completed: 21
-super_effective_against: [blank canvases, half-baked ideas, lazy weekends]
-weak_to: [unrealistic deadlines, bad coffee]
-```
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">🎯 <b>Current Arc</b><br><sub>Hack4SoC 3.0<br>on-device ML on Snapdragon</sub></td>
+<td align="center">📦 <b>Quests Done</b><br><sub>21 public repos<br>across 8 languages</sub></td>
+<td align="center">⚡ <b>Super Effective</b><br><sub>blank canvases,<br>half-baked ideas</sub></td>
+<td align="center">💀 <b>Weak To</b><br><sub>unrealistic deadlines,<br>bad coffee</sub></td>
+</tr>
+</table>
+
+</div>
+
+### Featured Quests
+
+> *Click any card to enter the dungeon.*
+
+<div align="center">
+
+<a href="https://github.com/TheClazer/project-pramana">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=TheClazer&repo=project-pramana&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=7aa2f7&text_color=c0caf5" />
+</a>
+<a href="https://github.com/TheClazer/CoreTex">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=TheClazer&repo=CoreTex&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=7aa2f7&text_color=c0caf5" />
+</a>
+<a href="https://github.com/TheClazer/Hand-tracked-Snake-game">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=TheClazer&repo=Hand-tracked-Snake-game&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=7aa2f7&text_color=c0caf5" />
+</a>
+<a href="https://github.com/TheClazer/Duo-leveling">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=TheClazer&repo=Duo-leveling&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=7aa2f7&text_color=c0caf5" />
+</a>
+
+</div>
 
 ---
 
 ## About Me
 
-- CS student who treats every weekend like a **mini game jam** — pick a stack, build a thing, see what happens
-- I've shipped **games** (hand-tracked Snake, MiniGolf, a leveling-up productivity app called Duo-leveling) and I want to ship more
-- Also into **on-device ML** and **Android** — currently building something for the Hack4SoC 3.0 hackathon
-- I like the part of CS where **math, product, and a tiny bit of chaos** collide
-- Quiet hobby: I keep ending up building things that catch phishing. No idea why.
+- 🕹️ CS student who treats every weekend like a **mini game jam** — pick a stack, build a thing, see what happens
+- 🎮 I've shipped **games** (hand-tracked Snake, MiniGolf, Duo-leveling) and I want to ship more
+- 📱 Also into **on-device ML** and **Android** — currently building for Hack4SoC 3.0
+- 🚩 **CTFs?** ALWAYS down. Ping me. I will drop what I'm doing.
+- 🌪️ I like the part of CS where **math, product, and a tiny bit of chaos** collide
 
 > *I think a great codebase is one you'd happily show a friend at 2am.*
 
@@ -115,10 +151,26 @@ weak_to: [unrealistic deadlines, bad coffee]
 
 </div>
 
-### Trophy Shelf
+### Profile Summary
+
+> *Auto-generated from my GitHub activity. Click to dig in.*
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TheClazer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+<a href="https://github.com/TheClazer">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheClazer&theme=tokyonight" />
+</a>
+<a href="https://github.com/TheClazer">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheClazer&theme=tokyonight&utcOffset=5.5" />
+</a>
+
+<a href="https://github.com/TheClazer?tab=repositories">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheClazer&theme=tokyonight" />
+</a>
+<a href="https://github.com/TheClazer">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheClazer&theme=tokyonight" />
+</a>
+
 </div>
 
 ---
@@ -149,11 +201,12 @@ weak_to: [unrealistic deadlines, bad coffee]
 
 I'm genuinely down to collaborate on:
 
-- **Games** of any size — jam-scale prototypes, weekend builds, weird controllers, anything
-- **Android / on-device ML** apps where the model runs on the phone, not a server
-- **Productivity tools** that don't feel like work
-- **Hackathons** — local, online, last-minute, all of it
-- Anything that starts with *"what if we just…"*
+- 🎮 **Games** of any size — jam-scale prototypes, weekend builds, weird controllers, anything
+- 🚩 **CTFs** — ALWAYS. Any platform, any difficulty, any time zone. Drop the invite.
+- 📱 **Android / on-device ML** apps where the model runs on the phone, not a server
+- 🧠 **Productivity tools** that don't feel like work
+- 🏆 **Hackathons** — local, online, last-minute, all of it
+- 💡 Anything that starts with *"what if we just…"*
 
 **Pitch me here:**
 
