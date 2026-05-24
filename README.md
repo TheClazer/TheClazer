@@ -61,46 +61,42 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/TheClazer/project-pramana">
-<img src="https://img.shields.io/badge/%F0%9F%93%B1%20project--pramana-Android%20%C2%B7%20On--device%20ML-bb9af7?style=for-the-badge&labelColor=1a1b27" />
-</a>
-<br>
-<img src="https://img.shields.io/github/stars/TheClazer/project-pramana?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
-<img src="https://img.shields.io/github/last-commit/TheClazer/project-pramana?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
-<br><br>
-<sub>🎯 <b>Current starter</b> — Hack4SoC 3.0 deepfake detection on Snapdragon NPU. No cloud, no telemetry.</sub>
-</td>
-<td align="center" width="50%">
 <a href="https://github.com/TheClazer/CoreTex">
-<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20CoreTex-Python%20%C2%B7%20AI-7aa2f7?style=for-the-badge&labelColor=1a1b27" />
-</a>
-<br>
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20CoreTex-Python%20%C2%B7%20AI-7aa2f7?style=for-the-badge&labelColor=1a1b27" /><br>
 <img src="https://img.shields.io/github/stars/TheClazer/CoreTex?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
 <img src="https://img.shields.io/github/last-commit/TheClazer/CoreTex?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
 <br><br>
-<sub>⭐ <b>My most-starred</b> — the repo that earned me my first stars. Still my favorite to come back to.</sub>
+<sub><b>EL or lab report → paper-worthy draft.</b> Built it for college, kept building it because a good EL deserves more than "submitted."</sub>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/TheClazer/MiniGolf">
+<img src="https://img.shields.io/badge/%E2%9B%B3%20MiniGolf-JavaScript%20%C2%B7%20Game-9ece6a?style=for-the-badge&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/github/stars/TheClazer/MiniGolf?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
+<img src="https://img.shields.io/github/last-commit/TheClazer/MiniGolf?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
+<br><br>
+<sub>⛳ <b>Pure fun</b> — a browser mini-golf game with proper physics. The kind of repo that exists because Saturday.</sub>
+</a>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/TheClazer/Hand-tracked-Snake-game">
-<img src="https://img.shields.io/badge/%F0%9F%90%8D%20SnakeHands-Python%20%C2%B7%20CV%20%C2%B7%20Game-ff79c6?style=for-the-badge&labelColor=1a1b27" />
-</a>
-<br>
+<img src="https://img.shields.io/badge/%F0%9F%90%8D%20SnakeHands-Python%20%C2%B7%20CV%20%C2%B7%20Game-ff79c6?style=for-the-badge&labelColor=1a1b27" /><br>
 <img src="https://img.shields.io/github/stars/TheClazer/Hand-tracked-Snake-game?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
 <img src="https://img.shields.io/github/last-commit/TheClazer/Hand-tracked-Snake-game?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
 <br><br>
-<sub>🕹️ <b>Side quest</b> — classic Snake, but you steer it with your actual hand. Weekend build, full vibes.</sub>
+<sub>🕹️ <b>Side quest</b> — classic Snake, but you steer it with your actual hand. CV + Pygame + a webcam.</sub>
+</a>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/TheClazer/Duo-leveling">
-<img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Duo--leveling-TypeScript%20%C2%B7%20Game--ish-9ece6a?style=for-the-badge&labelColor=1a1b27" />
-</a>
-<br>
+<img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Duo--leveling-TypeScript%20%C2%B7%20Game--ish-bb9af7?style=for-the-badge&labelColor=1a1b27" /><br>
 <img src="https://img.shields.io/github/stars/TheClazer/Duo-leveling?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
 <img src="https://img.shields.io/github/last-commit/TheClazer/Duo-leveling?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
 <br><br>
 <sub>📈 <b>Productivity, but RPG</b> — a to-do app that levels you up. Because spreadsheets are boring.</sub>
+</a>
 </td>
 </tr>
 </table>
@@ -111,13 +107,13 @@
 
 ## About Me
 
-- 🕹️ CS student who treats every weekend like a **mini game jam** — pick a stack, build a thing, see what happens
-- 🎮 I've shipped **games** (hand-tracked Snake, MiniGolf, Duo-leveling) and I want to ship more
-- 📱 Also into **on-device ML** and **Android** — currently building for Hack4SoC 3.0
-- 🚩 **CTFs?** ALWAYS down. Ping me. I will drop what I'm doing.
-- 🌪️ I like the part of CS where **math, product, and a tiny bit of chaos** collide
+- CS student. Every weekend is a **mini game jam** — pick a stack, build a thing, see what breaks.
+- Shipped **games** (hand-tracked Snake, MiniGolf, Duo-leveling). Always shipping more.
+- Into **on-device ML** and **Android**. Currently building for Hack4SoC 3.0.
+- **CTFs?** Always down. Ping me, I'll drop what I'm doing.
+- I like the parts of CS where **math, product, and a little chaos** collide.
 
-> *I think a great codebase is one you'd happily show a friend at 2am.*
+> *A great codebase is one you'd show a friend at 2am.*
 
 ---
 
