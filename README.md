@@ -58,18 +58,52 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
 <a href="https://github.com/TheClazer/project-pramana">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=TheClazer&repo=project-pramana&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=7aa2f7&text_color=c0caf5" />
+<img src="https://img.shields.io/badge/%F0%9F%93%B1%20project--pramana-Android%20%C2%B7%20On--device%20ML-bb9af7?style=for-the-badge&labelColor=1a1b27" />
 </a>
+<br>
+<img src="https://img.shields.io/github/stars/TheClazer/project-pramana?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
+<img src="https://img.shields.io/github/last-commit/TheClazer/project-pramana?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
+<br><br>
+<sub>🎯 <b>Current starter</b> — Hack4SoC 3.0 deepfake detection on Snapdragon NPU. No cloud, no telemetry.</sub>
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/TheClazer/CoreTex">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=TheClazer&repo=CoreTex&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=7aa2f7&text_color=c0caf5" />
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20CoreTex-Python%20%C2%B7%20AI-7aa2f7?style=for-the-badge&labelColor=1a1b27" />
 </a>
+<br>
+<img src="https://img.shields.io/github/stars/TheClazer/CoreTex?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
+<img src="https://img.shields.io/github/last-commit/TheClazer/CoreTex?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
+<br><br>
+<sub>⭐ <b>My most-starred</b> — the repo that earned me my first stars. Still my favorite to come back to.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 <a href="https://github.com/TheClazer/Hand-tracked-Snake-game">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=TheClazer&repo=Hand-tracked-Snake-game&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=7aa2f7&text_color=c0caf5" />
+<img src="https://img.shields.io/badge/%F0%9F%90%8D%20SnakeHands-Python%20%C2%B7%20CV%20%C2%B7%20Game-ff79c6?style=for-the-badge&labelColor=1a1b27" />
 </a>
+<br>
+<img src="https://img.shields.io/github/stars/TheClazer/Hand-tracked-Snake-game?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
+<img src="https://img.shields.io/github/last-commit/TheClazer/Hand-tracked-Snake-game?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
+<br><br>
+<sub>🕹️ <b>Side quest</b> — classic Snake, but you steer it with your actual hand. Weekend build, full vibes.</sub>
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/TheClazer/Duo-leveling">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/pin/?username=TheClazer&repo=Duo-leveling&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=7aa2f7&text_color=c0caf5" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Duo--leveling-TypeScript%20%C2%B7%20Game--ish-9ece6a?style=for-the-badge&labelColor=1a1b27" />
 </a>
+<br>
+<img src="https://img.shields.io/github/stars/TheClazer/Duo-leveling?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
+<img src="https://img.shields.io/github/last-commit/TheClazer/Duo-leveling?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
+<br><br>
+<sub>📈 <b>Productivity, but RPG</b> — a to-do app that levels you up. Because spreadsheets are boring.</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
