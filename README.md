@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=BB9AF7&center=true&vCenter=true&width=640&lines=Student+%40+R.V.+College+of+Engineering;I+build+apps%2C+I+train+models%2C+I+make+games;Big+fan+of+%22what+if+we+just...%22+conversations;Got+an+idea%3F+Let%E2%80%99s+actually+build+it)](#)
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheClazer&label=PROFILE+VIEWS&color=bb9af7&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=TheClazer&label=PROFILE+VIEWS&color=d4bbff&style=for-the-badge)
 [![Follow](https://img.shields.io/badge/FOLLOW-on%20GitHub-414868?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/TheClazer)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-in%2Frayynshk72-414868?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/rayynshk72)
 [![Email](https://img.shields.io/badge/EMAIL-therayyn16-414868?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:therayyn16@gmail.com)
@@ -29,11 +29,11 @@
 </td>
 <td>
 
-![Status](https://img.shields.io/badge/STATUS-Open%20to%20Collab-bb9af7?style=for-the-badge&labelColor=1a1b27)
+![Status](https://img.shields.io/badge/STATUS-Open%20to%20Collab-d4bbff?style=for-the-badge&labelColor=1a1b27)
 ![CTFs](https://img.shields.io/badge/CTFs-Always%20Down-414868?style=for-the-badge&labelColor=1a1b27)
 <br>
 ![Hackathons](https://img.shields.io/badge/Hackathons-Yes-414868?style=for-the-badge&labelColor=1a1b27)
-![Games](https://img.shields.io/badge/Game%20Jams-Sign%20me%20up-bb9af7?style=for-the-badge&labelColor=1a1b27)
+![Games](https://img.shields.io/badge/Game%20Jams-Sign%20me%20up-d4bbff?style=for-the-badge&labelColor=1a1b27)
 
 </td>
 </tr>
@@ -57,7 +57,7 @@
 <div align="center">
 
 <a href="https://github.com/TheClazer/project-pramana">
-<img src="https://img.shields.io/badge/PROJECT%20PRAMANA-On--Device%20Deepfake%20Detection%20%2B%20Cryptographic%20Provenance-bb9af7?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/PROJECT%20PRAMANA-On--Device%20Deepfake%20Detection%20%2B%20Cryptographic%20Provenance-d4bbff?style=for-the-badge&labelColor=1a1b27" />
 </a>
 <br>
 <img src="https://img.shields.io/badge/HACK4SOC%203.0-414868?style=for-the-badge" />
@@ -74,7 +74,7 @@
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/TheClazer/CoreTex">
-<img src="https://img.shields.io/badge/CORETEX-Python%20%C2%B7%20AI-bb9af7?style=for-the-badge&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/CORETEX-Python%20%C2%B7%20AI-d4bbff?style=for-the-badge&labelColor=1a1b27" /><br>
 <img src="https://img.shields.io/github/stars/TheClazer/CoreTex?style=flat-square&label=stars&labelColor=1a1b27&color=565f89" />
 <img src="https://img.shields.io/github/last-commit/TheClazer/CoreTex?style=flat-square&label=updated&labelColor=1a1b27&color=565f89" />
 </a>
@@ -83,7 +83,7 @@
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/TheClazer/MiniGolf">
-<img src="https://img.shields.io/badge/MINIGOLF-JavaScript%20%C2%B7%20Game-bb9af7?style=for-the-badge&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/MINIGOLF-JavaScript%20%C2%B7%20Game-d4bbff?style=for-the-badge&labelColor=1a1b27" /><br>
 <img src="https://img.shields.io/github/stars/TheClazer/MiniGolf?style=flat-square&label=stars&labelColor=1a1b27&color=565f89" />
 <img src="https://img.shields.io/github/last-commit/TheClazer/MiniGolf?style=flat-square&label=updated&labelColor=1a1b27&color=565f89" />
 </a>
@@ -94,7 +94,7 @@
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/TheClazer/Hand-tracked-Snake-game">
-<img src="https://img.shields.io/badge/SNAKEHANDS-Python%20%C2%B7%20CV%20%C2%B7%20Game-bb9af7?style=for-the-badge&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/SNAKEHANDS-Python%20%C2%B7%20CV%20%C2%B7%20Game-d4bbff?style=for-the-badge&labelColor=1a1b27" /><br>
 <img src="https://img.shields.io/github/stars/TheClazer/Hand-tracked-Snake-game?style=flat-square&label=stars&labelColor=1a1b27&color=565f89" />
 <img src="https://img.shields.io/github/last-commit/TheClazer/Hand-tracked-Snake-game?style=flat-square&label=updated&labelColor=1a1b27&color=565f89" />
 </a>
@@ -103,7 +103,7 @@
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/TheClazer/Duo-leveling">
-<img src="https://img.shields.io/badge/DUO--LEVELING-TypeScript%20%C2%B7%20Game--ish-bb9af7?style=for-the-badge&labelColor=1a1b27" /><br>
+<img src="https://img.shields.io/badge/DUO--LEVELING-TypeScript%20%C2%B7%20Game--ish-d4bbff?style=for-the-badge&labelColor=1a1b27" /><br>
 <img src="https://img.shields.io/github/stars/TheClazer/Duo-leveling?style=flat-square&label=stars&labelColor=1a1b27&color=565f89" />
 <img src="https://img.shields.io/github/last-commit/TheClazer/Duo-leveling?style=flat-square&label=updated&labelColor=1a1b27&color=565f89" />
 </a>
@@ -264,7 +264,7 @@ I'm genuinely down to collaborate on:
 
 **Pitch me here — DM me on LinkedIn, that's the fastest way. Email works too.**
 
-[![LinkedIn](https://img.shields.io/badge/DM%20on%20LinkedIn-in%2Frayynshk72-bb9af7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/rayynshk72)
+[![LinkedIn](https://img.shields.io/badge/DM%20on%20LinkedIn-in%2Frayynshk72-d4bbff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/rayynshk72)
 [![Email](https://img.shields.io/badge/Email%20me-therayyn16%40gmail.com-414868?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:therayyn16@gmail.com?subject=I%20have%20a%20cool%20idea)
 [![GitHub Issues](https://img.shields.io/badge/Open%20an%20Issue-on%20any%20repo-414868?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/TheClazer?tab=repositories)
 [![Discussions](https://img.shields.io/badge/Or%20just%20say-hi-414868?style=for-the-badge&logo=githubdiscussions&logoColor=white&labelColor=1a1b27)](https://github.com/TheClazer)
