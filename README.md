@@ -54,9 +54,23 @@
 
 ### Featured Quests
 
-> *Click any card to enter the dungeon.*
+> *The hero card is the one currently eating my life. Click any card to enter the dungeon.*
 
 <div align="center">
+
+<a href="https://github.com/TheClazer/project-pramana">
+<img src="https://img.shields.io/badge/PROJECT%20PRAMANA-On--Device%20Deepfake%20Detection%20%2B%20Cryptographic%20Provenance-bb9af7?style=for-the-badge&labelColor=1a1b27" />
+</a>
+<br>
+<img src="https://img.shields.io/badge/Hack4SoC%203.0-Build%20in%20Progress-ff79c6?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Snapdragon%20NPU-Hardware--Backed-7aa2f7?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Stealth-Public%20After%20Finals-9ece6a?style=for-the-badge&labelColor=1a1b27" />
+<br><br>
+<b>The flagship.</b> Real-time deepfake detection running entirely on-device — no cloud, no telemetry. Every capture is cryptographically signed with the phone's hardware-backed key, embedded as a provenance manifest, and verified offline. Built for the Hack4SoC 3.0 finals at IEEE RVCE × Qualcomm.
+<br><br>
+<sub><b>Stack:</b> Kotlin · Android · TFLite · QNN · TEE Keystore · ECDSA-P256 · JCS</sub>
+
+<br><br>
 
 <table>
 <tr>
@@ -66,7 +80,7 @@
 <img src="https://img.shields.io/github/stars/TheClazer/CoreTex?style=flat-square&label=stars&labelColor=1a1b27&color=ff79c6" />
 <img src="https://img.shields.io/github/last-commit/TheClazer/CoreTex?style=flat-square&label=updated&labelColor=1a1b27&color=7aa2f7" />
 <br><br>
-<sub><b>EL or lab report → paper-worthy draft.</b> Built it for college, kept building it because a good EL deserves more than "submitted."</sub>
+<sub><b>Doc → LaTeX → publishable paper.</b> A formatting pipeline that turns plain docs into proper, paper-ready LaTeX. Built because every EL and lab at RVCE turns into yet another paper to format — now it takes minutes, not weekends.</sub>
 </a>
 </td>
 <td align="center" width="50%">
@@ -222,6 +236,18 @@
 | **Pramāṇa** | On-device ML on Android — my Hack4SoC 3.0 entry. |
 | **CoreTex** | The repo that earned me my first stars. Still my favorite to come back to. |
 | **Duo-leveling** | A productivity app that treats your to-do list like an RPG. |
+
+---
+
+## Currently in My Ears
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=va1pscjoxd3l3vm0lexey4caf&cover_image=true&theme=default&show_offline=true&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false&bar_color=bb9af7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=va1pscjoxd3l3vm0lexey4caf&redirect=true)
+
+<sub><i>Live when I'm playing something. Shows "Was listening to…" otherwise.</i></sub>
+
+</div>
 
 ---
 
