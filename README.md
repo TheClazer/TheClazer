@@ -41,7 +41,7 @@
 
 <table>
 <tr>
-<td align="center"><b>Current Arc</b><br><br>Hack4SoC 3.0<br>on-device ML on Snapdragon</td>
+<td align="center"><b>Current Arc</b><br><br>Vyāyāma<br>on-device AI coach on Snapdragon</td>
 <td align="center"><b>Quests Done</b><br><br>21 public repos<br>across 8 languages</td>
 <td align="center"><b>Super Effective</b><br><br>blank canvases,<br>half-baked ideas</td>
 <td align="center"><b>Weak To</b><br><br>unrealistic deadlines,<br>bad coffee</td>
@@ -56,21 +56,30 @@
 
 <div align="center">
 
-<a href="https://github.com/TheClazer/project-pramana">
-<img src="https://img.shields.io/badge/PROJECT%20PRAMANA-On--Device%20Deepfake%20Detection%20%2B%20Cryptographic%20Provenance-d4bbff?style=for-the-badge&labelColor=1a1b27" />
+<a href="https://github.com/TheClazer/project-vyayama">
+<img src="https://img.shields.io/badge/PROJECT%20VYAYAMA-On--Device%20AI%20Exercise%20Coach-d4bbff?style=for-the-badge&labelColor=1a1b27" />
 </a>
 <br>
 <img src="https://img.shields.io/badge/HACK4SOC%203.0-414868?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SNAPDRAGON%20NPU-414868?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STEALTH%20MODE-414868?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SNAPDRAGON%20HEXAGON%20NPU-414868?style=for-the-badge" />
+<img src="https://img.shields.io/badge/100%25%20OFFLINE-414868?style=for-the-badge" />
 <br><br>
-<b>The flagship.</b> Real-time deepfake detection running entirely on-device — no cloud, no telemetry. Every capture is cryptographically signed with the phone's hardware-backed key, embedded as a provenance manifest, and verified offline. Built for the Hack4SoC 3.0 finals at IEEE RVCE × Qualcomm.
+<b>The flagship.</b> An AI exercise coach that runs entirely on the phone — it recognises 7 exercises on its own, counts your reps, scores every one 0–100, and coaches you <b>out loud</b>, all on the Snapdragon Hexagon NPU. No cloud, no backend — the app doesn't even request the <code>INTERNET</code> permission, so the camera feed never leaves the device.
 <br><br>
-<sub><b>Stack:</b> Kotlin · Android · TFLite · QNN · TEE Keystore · ECDSA-P256 · JCS</sub>
+<sub><b>Stack:</b> Java · Android · SNPE · Hexagon NPU · YOLO-NAS · HRNet · on-device TTS · 120+ test harness</sub>
 
 </div>
 
 <br>
+
+### [Project Pramāṇa](https://github.com/TheClazer/project-pramana)
+*On-device deepfake detection + cryptographic provenance.*
+
+Real-time deepfake detection that runs entirely on-device — every capture is signed with the phone's hardware-backed key and verified offline. No cloud, no telemetry.
+
+`Kotlin`  ·  `Android`  ·  `TFLite`  ·  `QNN`  ·  `TEE Keystore`  ·  [view repo →](https://github.com/TheClazer/project-pramana)
+
+---
 
 ### [CoreTex](https://github.com/TheClazer/CoreTex)
 *Doc → LaTeX → publishable paper.*
@@ -112,7 +121,7 @@ A to-do app that levels you up. Because spreadsheets are boring.
 
 - CS student. Every weekend is a **mini game jam** — pick a stack, build a thing, see what breaks.
 - Shipped **games** (hand-tracked Snake, MiniGolf, Duo-leveling). Always shipping more.
-- Into **on-device ML** and **Android**. Currently building for Hack4SoC 3.0.
+- Into **on-device ML** and **Android** — most recently **Vyāyāma**, an offline AI coach that runs on the Snapdragon NPU.
 - **CTFs?** Always down. Ping me, I'll drop what I'm doing.
 - I like the parts of CS where **math, product, and a little chaos** collide.
 
@@ -234,7 +243,7 @@ A to-do app that levels you up. Because spreadsheets are boring.
 
 | | |
 |---|---|
-| **Pramāṇa** | On-device ML on Android — my Hack4SoC 3.0 entry. |
+| **Vyāyāma** | On-device AI exercise coach on Snapdragon — recognises, counts, scores & coaches by voice. |
 | **CoreTex** | The repo that earned me my first stars. Still my favorite to come back to. |
 | **Duo-leveling** | A productivity app that treats your to-do list like an RPG. |
 
