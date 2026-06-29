@@ -41,12 +41,24 @@
 
 <table>
 <tr>
-<td align="center"><b>Current Arc</b><br><br>Vyāyāma<br>on-device AI coach on Snapdragon</td>
-<td align="center"><b>Quests Done</b><br><br>21 public repos<br>across 8 languages</td>
+<td align="center"><b>Current Arc</b><br><br>Quorum<br>5-model AI workbench on Nebius</td>
+<td align="center"><b>Quests Done</b><br><br>24 public repos<br>across 8 languages</td>
 <td align="center"><b>Super Effective</b><br><br>blank canvases,<br>half-baked ideas</td>
 <td align="center"><b>Weak To</b><br><br>unrealistic deadlines,<br>bad coffee</td>
 </tr>
 </table>
+
+</div>
+
+### Trophy Shelf
+
+<div align="center">
+
+[![Hack4SoC](https://img.shields.io/badge/3rd%20Place-Hack4SoC%203.0%20%28Qualcomm%29-d4bbff?style=for-the-badge&labelColor=1a1b27)](https://github.com/TheClazer/project-vyayama)
+[![Nebius](https://img.shields.io/badge/Top%205-Nova%20%C3%97%20Nebius%20Buildathon-414868?style=for-the-badge&labelColor=1a1b27)](https://github.com/TheClazer/quorum)
+[![CTF](https://img.shields.io/badge/1st%20Place-CTF%20%40%20BMSCE%20%28150%2B%29-d4bbff?style=for-the-badge&labelColor=1a1b27)](#)
+[![Honeywell](https://img.shields.io/badge/Top%2015-Honeywell%20Designathon-414868?style=for-the-badge&labelColor=1a1b27)](#)
+[![GSSoC](https://img.shields.io/badge/Selected-GSSoC%202026-414868?style=for-the-badge&labelColor=1a1b27)](#)
 
 </div>
 
@@ -60,7 +72,7 @@
 <img src="https://img.shields.io/badge/PROJECT%20VYAYAMA-On--Device%20AI%20Exercise%20Coach-d4bbff?style=for-the-badge&labelColor=1a1b27" />
 </a>
 <br>
-<img src="https://img.shields.io/badge/HACK4SOC%203.0-414868?style=for-the-badge" />
+<img src="https://img.shields.io/badge/3rd%20Place-HACK4SOC%203.0-d4bbff?style=for-the-badge&labelColor=1a1b27" />
 <img src="https://img.shields.io/badge/SNAPDRAGON%20HEXAGON%20NPU-414868?style=for-the-badge" />
 <img src="https://img.shields.io/badge/100%25%20OFFLINE-414868?style=for-the-badge" />
 <br><br>
@@ -71,6 +83,15 @@
 </div>
 
 <br>
+
+### [Quorum](https://github.com/TheClazer/quorum)
+*Don't ask one AI. Convene a council.*
+
+A local-first, multi-vendor **AI workbench** on a single Nebius key — convenes **5 open models from 5 vendors** to debate (independent judge, clustered verdict, live cost meter), plus **chat**, a **model explorer** (vision + embeddings), **GPU rental + fine-tuning**, and an **agentic coding agent**. One key, one bill; nothing leaves your machine but the model calls.
+
+`Next.js 15`  ·  `React 19`  ·  `Nebius`  ·  `Top 5 @ Nova × Nebius Buildathon`  ·  ![](https://img.shields.io/github/stars/TheClazer/quorum?style=flat&label=&color=c084fc&logo=star&logoColor=ffd700)  ·  [view repo →](https://github.com/TheClazer/quorum)
+
+---
 
 ### [Project Pramāṇa](https://github.com/TheClazer/project-pramana)
 *On-device deepfake detection + cryptographic provenance.*
@@ -243,6 +264,7 @@ A to-do app that levels you up. Because spreadsheets are boring.
 
 | | |
 |---|---|
+| **Quorum** | A 5-model, multi-vendor AI workbench on Nebius — debate, chat, fine-tuning & an agentic coder. |
 | **Vyāyāma** | On-device AI exercise coach on Snapdragon — recognises, counts, scores & coaches by voice. |
 | **CoreTex** | The repo that earned me my first stars. Still my favorite to come back to. |
 | **Duo-leveling** | A productivity app that treats your to-do list like an RPG. |
