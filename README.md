@@ -250,25 +250,17 @@ A to-do app that levels you up. Because spreadsheets are boring.
 
 ---
 
-## Contribution Log
+## Contribution Grid
 
-> *Every commit is XP — here’s the current run.*
+> *Every square is a day on the grind — light up the board.*
 
 <div align="center">
 
-<table>
-<tr><td align="center">
-<b>RAYYAN</b> &nbsp;·&nbsp; <code>@TheClazer</code> &nbsp;·&nbsp; <kbd>Class: Full-Stack · On-Device AI</kbd>
-<br><br>
-<code>LVL&nbsp;14&nbsp;&nbsp;████████████████░░░░&nbsp;&nbsp;80%&nbsp;→&nbsp;LVL&nbsp;15</code>
-<br><br>
-🗡️ <b>243</b> commits &nbsp;·&nbsp; 🛡️ <b>6</b> PRs &nbsp;·&nbsp; 🔥 <b>345</b> XP this season
-</td></tr>
-</table>
+<img width="840" src="https://ghchart.rshah.org/8b5cf6/TheClazer" alt="Rayyan's GitHub contribution grid" />
+
 <br>
-<sub><i>XP = public + private contributions over the last 12 months · the graph below is live</i></sub>
-<br><br>
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=TheClazer&bg_color=1a1b27&color=c0caf5&line=bb9af7&point=ff79c6&area=true&hide_border=true&custom_title=Commit%20Activity" alt="commit activity graph" />
+
+<sub><code>Less&nbsp;░▒▓█&nbsp;More</code> &nbsp;·&nbsp; <b>345</b> squares lit this year &nbsp;·&nbsp; keep the combo alive</sub>
 
 </div>
 
