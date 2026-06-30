@@ -260,7 +260,7 @@ A to-do app that levels you up. Because spreadsheets are boring.
 
 <br>
 
-<sub><code>Less&nbsp;░▒▓█&nbsp;More</code> &nbsp;·&nbsp; <b>345</b> squares lit this year &nbsp;·&nbsp; keep the combo alive</sub>
+<sub><code>Less&nbsp;░▒▓█&nbsp;More</code> &nbsp;·&nbsp; public activity, last 12 months &nbsp;·&nbsp; keep the combo alive</sub>
 
 </div>
 
