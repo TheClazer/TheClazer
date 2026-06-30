@@ -256,11 +256,11 @@ A to-do app that levels you up. Because spreadsheets are boring.
 
 <div align="center">
 
-<img width="840" src="https://ghchart.rshah.org/8b5cf6/TheClazer" alt="Rayyan's GitHub contribution grid" />
+<img width="640" src="https://raw.githubusercontent.com/TheClazer/TheClazer/main/contribution-calendar.svg" alt="Rayyan's contribution calendar (last 12 months)" />
 
 <br>
 
-<sub><code>Less&nbsp;░▒▓█&nbsp;More</code> &nbsp;·&nbsp; public activity, last 12 months &nbsp;·&nbsp; keep the combo alive</sub>
+<sub><code>Less&nbsp;░▒▓█&nbsp;More</code> &nbsp;·&nbsp; last 12 months &nbsp;·&nbsp; auto-updates daily</sub>
 
 </div>
 
