@@ -1,0 +1,28 @@
+name: Contribution Calendar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Full-year contribution calendar (dark)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: TheClazer
+          filename: contribution-calendar.svg
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+          config_timezone: Asia/Kolkata
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore: refresh contribution calendar"
+          extras_css: "svg{background-color:#0d1117!important;border:none!important}text{fill:#c9d1d9!important}"
