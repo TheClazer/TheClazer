@@ -252,15 +252,15 @@ A to-do app that levels you up. Because spreadsheets are boring.
 
 ## Contribution Grid
 
-> *Every square is a day on the grind — light up the board.*
+> *Every commit is a block — building the world, one push at a time.*
 
 <div align="center">
 
-<img width="640" src="https://raw.githubusercontent.com/TheClazer/TheClazer/main/contribution-calendar.svg" alt="Rayyan's contribution calendar (last 12 months)" />
+<img width="760" src="https://raw.githubusercontent.com/TheClazer/TheClazer/main/profile-3d-contrib/profile-gitblock.svg" alt="Rayyan's contribution world (Minecraft-style 3D grid)" />
 
 <br>
 
-<sub><code>Less&nbsp;░▒▓█&nbsp;More</code> &nbsp;·&nbsp; last 12 months &nbsp;·&nbsp; auto-updates daily</sub>
+<sub>each block = a day of commits &nbsp;·&nbsp; auto-updates daily</sub>
 
 </div>
 
