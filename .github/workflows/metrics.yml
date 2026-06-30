@@ -20,7 +20,7 @@ jobs:
           filename: contribution-calendar.svg
           base: ""
           plugin_calendar: yes
-          plugin_calendar_limit: 0
+          plugin_calendar_limit: 1
           config_timezone: Asia/Kolkata
           output_action: commit
           committer_branch: main
