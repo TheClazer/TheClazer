@@ -57,6 +57,7 @@
 [![Hack4SoC](https://img.shields.io/badge/3rd%20Place-Hack4SoC%203.0%20%28Qualcomm%29-d4bbff?style=for-the-badge&labelColor=1a1b27)](https://github.com/TheClazer/project-vyayama)
 [![Nebius](https://img.shields.io/badge/Top%205-Nova%20%C3%97%20Nebius%20Buildathon-414868?style=for-the-badge&labelColor=1a1b27)](https://github.com/TheClazer/quorum)
 [![CTF](https://img.shields.io/badge/1st%20Place-CTF%20%40%20BMSCE%20%28150%2B%29-d4bbff?style=for-the-badge&labelColor=1a1b27)](#)
+[![NeuroCode](https://img.shields.io/badge/2nd%20Place-NeuroCode%20Overnight%20%28170%2B%29-d4bbff?style=for-the-badge&labelColor=1a1b27)](#)
 [![Honeywell](https://img.shields.io/badge/Top%2015-Honeywell%20Designathon-414868?style=for-the-badge&labelColor=1a1b27)](#)
 [![GSSoC](https://img.shields.io/badge/Selected-GSSoC%202026-414868?style=for-the-badge&labelColor=1a1b27)](#)
 
