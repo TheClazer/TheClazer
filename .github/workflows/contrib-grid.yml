@@ -1,0 +1,29 @@
+name: Contribution Grid
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Render contribution grid
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/render_contrib_grid.py
+      - name: Commit if changed
+        run: |
+          git config user.name "TheClazer"
+          git config user.email "therayyn16@gmail.com"
+          git add contribution-grid.svg
+          git diff --staged --quiet || git commit -m "chore: refresh contribution grid"
+          git push
