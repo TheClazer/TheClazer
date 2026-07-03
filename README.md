@@ -227,28 +227,6 @@ A to-do app that levels you up. Because spreadsheets are boring.
 
 </div>
 
-### Profile Summary
-
-> *Auto-generated from my GitHub activity. Click to dig in.*
-
-<div align="center">
-
-<a href="https://github.com/TheClazer">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheClazer&theme=tokyonight" />
-</a>
-<a href="https://github.com/TheClazer">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheClazer&theme=tokyonight&utcOffset=5.5" />
-</a>
-
-<a href="https://github.com/TheClazer?tab=repositories">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheClazer&theme=tokyonight" />
-</a>
-<a href="https://github.com/TheClazer">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheClazer&theme=tokyonight" />
-</a>
-
-</div>
-
 ---
 
 ## Contribution Grid
