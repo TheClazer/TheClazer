@@ -216,18 +216,6 @@ A to-do app that levels you up. Because spreadsheets are boring.
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TheClazer&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=7aa2f7&text_color=c0caf5&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheClazer&layout=compact&hide_border=true&bg_color=1a1b27&title_color=bb9af7&text_color=c0caf5&langs_count=8" />
-
-<img height="180" src="https://streak-stats.demolab.com?user=TheClazer&hide_border=true&background=1a1b27&stroke=bb9af7&ring=7aa2f7&fire=ff79c6&currStreakLabel=bb9af7&sideLabels=c0caf5&dates=c0caf5&sideNums=c0caf5&currStreakNum=ff79c6" />
-
-</div>
-
----
 
 ## Contribution Grid
 
