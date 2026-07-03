@@ -24,6 +24,8 @@ jobs:
         run: |
           git config user.name "TheClazer"
           git config user.email "therayyn16@gmail.com"
-          git add contribution-grid.svg
+          # bump the cache-buster in the README so GitHub re-fetches the fresh image
+          sed -i "s|contribution-grid.svg?v=[0-9]*|contribution-grid.svg?v=$(date +%s)|" README.md
+          git add contribution-grid.svg README.md
           git diff --staged --quiet || git commit -m "chore: refresh contribution grid"
           git push
