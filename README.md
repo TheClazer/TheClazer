@@ -223,7 +223,7 @@ A to-do app that levels you up. Because spreadsheets are boring.
 
 <div align="center">
 
-<img width="800" src="https://raw.githubusercontent.com/TheClazer/TheClazer/main/contribution-grid.svg?v=1783666829" alt="Rayyan's contribution grid (last 12 months)" />
+<img width="800" src="https://raw.githubusercontent.com/TheClazer/TheClazer/main/contribution-grid.svg?v=1783749435" alt="Rayyan's contribution grid (last 12 months)" />
 
 <br>
 
