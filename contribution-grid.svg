@@ -382,8 +382,9 @@
 <rect x="750" y="96" width="11" height="11" rx="2.5" fill="#3a2e63"/>
 <rect x="750" y="110" width="11" height="11" rx="2.5" fill="#5b46a8"/>
 <rect x="750" y="124" width="11" height="11" rx="2.5" fill="#5b46a8"/>
-<rect x="764" y="40" width="11" height="11" rx="2.5" fill="#221f33"/>
-<text x="36" y="162" fill="#8b8fa3" font-size="10"><tspan fill="#d4bbff" font-weight="700">410</tspan> contributions · 75 active days</text>
+<rect x="764" y="40" width="11" height="11" rx="2.5" fill="#5b46a8"/>
+<rect x="764" y="54" width="11" height="11" rx="2.5" fill="#221f33"/>
+<text x="36" y="162" fill="#8b8fa3" font-size="10"><tspan fill="#d4bbff" font-weight="700">414</tspan> contributions · 76 active days</text>
 <text x="638" y="162" fill="#8b8fa3" font-size="9">Less</text>
 <rect x="664" y="153" width="11" height="11" rx="2.5" fill="#221f33"/>
 <rect x="678" y="153" width="11" height="11" rx="2.5" fill="#3a2e63"/>
